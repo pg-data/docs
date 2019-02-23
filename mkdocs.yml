@@ -2,4 +2,5 @@ site_name: PGData Documentation
 nav:
         - Home: index.md
         - About: about.md
+        - Tutorial: basic_commands.md
 theme: cinder
